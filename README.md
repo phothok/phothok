@@ -1,6 +1,6 @@
-## Eai tudo bem!? Eu sou o Wanderson Seven <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-- 💻 Graduando em Gestão da **Tecnologia da Informação** pela [Universidade Católica de Santos](https://www.unisantos.br/)
-- ✅  Estudando Programação pela <a href="https://app.rocketseat.com.br/me/wandseven" target="_blank"><img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100" width="125px" target="_blank"></a>
+## Hey all right!? I am Wanderson Seven <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+- 💻 Graduating in Information **Technology Management** at [Universidade Católica de Santos](https://www.unisantos.br/)
+- ✅ Studying Programming by <a href="https://app.rocketseat.com.br/me/wandseven" target="_blank"><img src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Frocketseat.svg&w=256&q=100" width="125px" target="_blank"></a>
      
 
 ## ⚡ Tecnologias
